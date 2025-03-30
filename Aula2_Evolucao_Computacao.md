@@ -4,7 +4,7 @@
 
 👥 Atividade em Grupo.
 
-# Conteúdo  da linha do tempo
+# Conteúdo da Timeline
 
  **CLOUD COMPUTING**
 
