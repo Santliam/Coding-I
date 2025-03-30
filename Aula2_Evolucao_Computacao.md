@@ -18,7 +18,7 @@ Na década de 1960, que a __computação em nuvem__ foi ganhando forma com o __J
 
 Ele propôs o uso do __computador de forma compartilhada__ por dois ou mais usuários, nascendo a ideia de __“Utility Computing”__, na qual ele defendia a possibilidade de vender a computação como uma utilidade.
 
-### 1990
+### 1990 - Popularização da Internet
 
 No final dos anos 1990 e início dos anos 2000. Com a popularização da internet e o aumento da banda larga, empresas começaram a oferecer serviços baseados na web. Por exemplo, serviços de e-mail baseados na web, como o Hotmail.
 
@@ -26,7 +26,7 @@ No final dos anos 1990 e início dos anos 2000. Com a popularização da interne
 
 O termo __Cloud Computing__ nasce oficialmente em uma palestra proferida pelo professor de sistemas Ramnath Chellappa. E assim, dentro de pouco tempo, as empresas passariam a trocar sua infraestrutura de hardware por serviços disponíveis em nuvem.
 
-### 2000
+### 2000 - tecnologia oferecida comercialmente
 
  A partir dos anos 2000, a tecnologia __cloud computing__ passa a ganhar mais força, ao ser oferecida comercialmente.
 
