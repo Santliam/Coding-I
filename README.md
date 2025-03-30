@@ -12,25 +12,29 @@ O objetivo é documentar as atividades realizadas durante a disciplina de Coding
 
 Este repositório está organizado da seguinte maneira:
 
-## **Aula 1 - Inaugural:** Nesta aula, foi apresentada a ementa do curso, os principais assuntos a serem estudados, a forma de avaliação, que incluirá atividades, projetos e talvez provas.
+## **Aula 1 - Inaugural** 
+Nesta aula, foi apresentada a ementa do curso, os principais assuntos a serem estudados, a forma de avaliação, que incluirá atividades, projetos e talvez provas.
 
-## **Aula 2 - Evolução da Computação:** Nesta aula,  exploramos o desenvolvimento das tecnologias desde os primeiros dispositivos como o ábaco até as inovações atuais, como computação em nuvem, inteligência artificial e computação quântica. Discutimos como esses avanços transformaram a sociedade, tornando a computação mais acessível, rápida e como as novas tecnologias continuam a moldar o futuro.
+## **Aula 2 - Evolução da Computação**
+Nesta aula,  exploramos o desenvolvimento das tecnologias desde os primeiros dispositivos como o ábaco até as inovações atuais, como computação em nuvem, inteligência artificial e computação quântica. Discutimos como esses avanços transformaram a sociedade, tornando a computação mais acessível, rápida e como as novas tecnologias continuam a moldar o futuro.
 
-✏ [**Atividade:**](https://miro.com/welcomeonboard/UXI1Z2lkSXpYLytQZVZpNTR0czB3YWpJY08rTm5xV28vQnlQYW1ldjRSRG5uNVdKT3hRdUx4T3JFenlscjBWR1BhUTlQUDlLUFJhOTFLRitreFdGZzFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JpVUl4RTc0SzBRaFFBeG42dStoR2RBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=635366859427) Pesquisa sobre **Cloud Computing** apresentando em  uma linha do tempo desde os primeiros conceitos até o desenvolvimento de soluções modernas como a AWS da Amazon, que revolucionou o acesso a serviços de computação em nuvem.
+✏ [**Atividade**](https://miro.com/welcomeonboard/UXI1Z2lkSXpYLytQZVZpNTR0czB3YWpJY08rTm5xV28vQnlQYW1ldjRSRG5uNVdKT3hRdUx4T3JFenlscjBWR1BhUTlQUDlLUFJhOTFLRitreFdGZzFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JpVUl4RTc0SzBRaFFBeG42dStoR2RBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=635366859427) Pesquisa sobre **Cloud Computing** apresentando em  uma linha do tempo desde os primeiros conceitos até o desenvolvimento de soluções modernas como a AWS da Amazon, que revolucionou o acesso a serviços de computação em nuvem.
 
-## **Aula 3 - Introdução à Programação:** Nesta aula, exploramos a evolução das linguagens de programação, desde os primeiros códigos de máquina até as linguagens modernas. Discutimos como cada avanço contribuiu para a melhoria da produtividade e da eficiência.
+## **Aula 3 - Introdução à Programação**
+Nesta aula, exploramos a evolução das linguagens de programação, desde os primeiros códigos de máquina até as linguagens modernas. Discutimos como cada avanço contribuiu para a melhoria da produtividade e da eficiência.
 
-✏ [**Atividade:**](https://miro.com/welcomeonboard/NEhBODBRQXBKSVE4OWJFM3prcnVjRGJqeW9BN1plUHJsRDVuNm5CZjhHaExobHVVaWdYaTVjclhqd3g4M09VdXFFTHB6bTJrSmEzV0FmT2IvM2N0aGxtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JXUm1QMTZBTlE5ZHZtR2J0dUFvRXFBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=263138994058) A pesquisa sobre a linguagem C# explora seus recursos e a evolução como uma linguagem orientada a objetos desenvolvida pela Microsoft. Focada em produtividade e portabilidade, C# é amplamente utilizada para o desenvolvimento de aplicações desktop, web e mobile. A pesquisa apresenta também sobre trilhas de estudo, mercado de trabalho e curiosidades  .
+✏ [**Atividade**](https://miro.com/welcomeonboard/NEhBODBRQXBKSVE4OWJFM3prcnVjRGJqeW9BN1plUHJsRDVuNm5CZjhHaExobHVVaWdYaTVjclhqd3g4M09VdXFFTHB6bTJrSmEzV0FmT2IvM2N0aGxtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JXUm1QMTZBTlE5ZHZtR2J0dUFvRXFBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=263138994058) A pesquisa sobre a linguagem C# explora seus recursos e a evolução como uma linguagem orientada a objetos desenvolvida pela Microsoft. Focada em produtividade e portabilidade, C# é amplamente utilizada para o desenvolvimento de aplicações desktop, web e mobile. A pesquisa apresenta também sobre trilhas de estudo, mercado de trabalho e curiosidades  .
 
-## **Aula 4 - Introdução à Algoritmos:** Nesta aula, abordamos os conceitos fundamentais sobre como resolver problemas por meio de sequências de instruções. Foi apresentada a importância dos algoritmos no desenvolvimento de soluções computacionais, além de fluxogramas, que colaboram para a compreensão dos fluxos e ajudam na visualização e no planejamento das etapas do processo.
+## **Aula 4 - Introdução à Algoritmos**
+Nesta aula, abordamos os conceitos fundamentais sobre como resolver problemas por meio de sequências de instruções. Foi apresentada a importância dos algoritmos no desenvolvimento de soluções computacionais, além de fluxogramas, que colaboram para a compreensão dos fluxos e ajudam na visualização e no planejamento das etapas do processo.
 
-✏ [**Atividade:**](https://miro.com/welcomeonboard/RUFodTlROGE2RzBQWlZma08wczFwWEN2RUprKzBKdjIvZ1pSRGpvdUhvUFAzMTZDWlJkTWxFcytScWhBdWNtMUFCU09tM1E0UjE5ZGJMdld2S0FuRDFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0FmaERyREZFTWpBVFZzSEtMTTd5Lzd3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=98165721347) Nesta atividade, foi explorado os conceitos básicos de algoritmos criando um pseudocódigo e um fluxograma para um recurso ou processo específico. possibilitando entender como os algoritmos funcionam e como representá-los visualmente.
+✏ [**Atividade**](https://miro.com/welcomeonboard/RUFodTlROGE2RzBQWlZma08wczFwWEN2RUprKzBKdjIvZ1pSRGpvdUhvUFAzMTZDWlJkTWxFcytScWhBdWNtMUFCU09tM1E0UjE5ZGJMdld2S0FuRDFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0FmaERyREZFTWpBVFZzSEtMTTd5Lzd3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=98165721347) Nesta atividade, foi explorado os conceitos básicos de algoritmos criando um pseudocódigo e um fluxograma para um recurso ou processo específico. possibilitando entender como os algoritmos funcionam e como representá-los visualmente.
 
-## **Aula 5 - :** 
+## **Aula 5 - ** 
 
-✏ [**Atividade:**](https://typebot.co/my-typebot-tmytafa) Nesta atividade, Crie um chatbot usando o fluxograma apresentado em aula como referência.
+✏ [**Atividade**](https://typebot.co/my-typebot-tmytafa) Nesta atividade, Crie um chatbot usando o fluxograma apresentado em aula como referência.
 
-**Projeto Final:**
+**Projeto Final**
 
 ## 💻 Resumos da Aulas
 
@@ -39,4 +43,4 @@ Este repositório está organizado da seguinte maneira:
 | Aula 2 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula2_Evolucao_Computacao.md)|
 | Aula 3 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula3_Introducao_Programacao.md)|
 | Aula 4 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula_4_Introdu%C3%A7%C3%A3o_Algoritmos.md)|
-| Aula 5 | [Resumo]([https://github.com/Santliam/Coding-I/blob/main/Aula2_Evolucao_Computacao.md](https://github.com/Santliam/Coding-I/blob/main/Aula5_.md)|
+| Aula 5 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula5_.md)|
