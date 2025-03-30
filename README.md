@@ -32,6 +32,6 @@ Este repositório está organizado da seguinte maneira:
 
 | Aulas | Resumo |
 |:------|:-------|
-| Aula 2 | [Resumo]()|
+| Aula 2 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula2_Evolucao_Computacao.md)|
 | Aula 3 | [Resumo]()|
 | Aula 4 | [Resumo]()|
