@@ -20,7 +20,7 @@ C# é pronunciado "C-Sharp". É uma linguagem de programação orientada a objet
 
 🔍 [**Um tour pela linguagem C#**](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/overview)
 
-### Utilidades da Linguagem C#
+## Utilidades da Linguagem C#
 
 - Aplicações móveis
 - Aplicações de desktop
@@ -33,17 +33,17 @@ C# é pronunciado "C-Sharp". É uma linguagem de programação orientada a objet
 
 🔍 [**C# Introduction**](https://www.w3schools.com/cs/cs_intro.php)
 
-### Linguagem Orientada a Objetos *(POO)*
+## Linguagem Orientada a Objetos *(POO)*
 
 C# é uma linguagem de programação orientada a objetos. A base de uma programação orientada a objetos é um universo de sistema de tipos. No universo de sistema de tipos, tudo gira em torno de classes e objetos.
 
 A linguagem é desenvolvida por Anders Hejlsberg que não apenas criou o C#, mas também influenciou profundamente o mundo da programação com suas contribuições ao Turbo Pascal, Delphi e .NET.
 
-### 📚 Documentação da Linguagem
+## 📚 Documentação da Linguagem
 
 [A Documentação de C#](https://learn.microsoft.com/pt-br/dotnet/csharp/) inclui artigos, tutoriais e exemplos de código para ajudá-lo a começar a usar o C# e a plataforma .NET.
 
-### Empresas que Usam C#
+## Empresas que Usam C#
 
 - Microsoft: Microsoft é a principal usuária e promotora do C#.
 - Unity Technologies: A Unity é usada para desenvolvimento de jogos.
