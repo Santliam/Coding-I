@@ -54,6 +54,6 @@ Em uma multicloud, encontramos a utilização de mais de um serviço de provedor
 
 A escolha de uma abordagem multicloud, combinando a utilização de mais de um provedor de serviços em nuvem, pode favorecer diferentes estratégias.
 
-[Cloud Computing Timeline](https://miro.com/welcomeonboard/UXI1Z2lkSXpYLytQZVZpNTR0czB3YWpJY08rTm5xV28vQnlQYW1ldjRSRG5uNVdKT3hRdUx4T3JFenlscjBWR1BhUTlQUDlLUFJhOTFLRitreFdGZzFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JpVUl4RTc0SzBRaFFBeG42dStoR2RBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=635366859427)
+[___Acesso à Timeline___](https://miro.com/welcomeonboard/UXI1Z2lkSXpYLytQZVZpNTR0czB3YWpJY08rTm5xV28vQnlQYW1ldjRSRG5uNVdKT3hRdUx4T3JFenlscjBWR1BhUTlQUDlLUFJhOTFLRitreFdGZzFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JpVUl4RTc0SzBRaFFBeG42dStoR2RBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=635366859427)
 
 ![Cloud Computer - Timeline](https://github.com/Santliam/Coding-I/blob/main/Media/tl_cloudcomputing.jpg?raw=true)
