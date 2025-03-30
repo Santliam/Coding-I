@@ -6,19 +6,19 @@
 
 # Conteúdo  da linha do tempo
 
- __CLOUD COMPUTING__
+ **CLOUD COMPUTING**
 
 ### 1950 - Começa-se a falar sobre Cloud Computing
 
-Nesse contexto ainda não existia o conceito de __"cloud computing"__, porém os __sistemas de compartilhamento de tempo__ começam em 1950 e contribuem para a ideia de __"computação distribuida"__.
+Nesse contexto ainda não existia o conceito de **"cloud computing"**, porém os **sistemas de compartilhamento de tempo** começam em 1950 e contribuem para a ideia de **"computação distribuida"**.
 
 Os sistemas de compartilhamento de tempo são uma tecnologia da computação desenvolvida para permitir que múltiplos usuários compartilhem os recursos de um único computador simultaneamente.
 
 ### 1960 - John McCarthy
 
-Na década de 1960, que a __computação em nuvem__ foi ganhando forma com o __John McCarthy__.
+Na década de 1960, que a **computação em nuvem** foi ganhando forma com o **John McCarthy**.
 
-Ele propôs o uso do __computador de forma compartilhada__ por dois ou mais usuários, nascendo a ideia de __“Utility Computing”__, na qual ele defendia a possibilidade de vender a computação como uma utilidade.
+Ele propôs o uso do **computador de forma compartilhada** por dois ou mais usuários, nascendo a ideia de **“Utility Computing”**, na qual ele defendia a possibilidade de vender a computação como uma utilidade.
 
 ### 1990 - Popularização da Internet
 
@@ -26,15 +26,15 @@ No final dos anos 1990 e início dos anos 2000. Com a popularização da interne
 
 ### 1997 - Ramnath Chellappa
 
-O termo __Cloud Computing__ nasce oficialmente em uma palestra proferida pelo professor de sistemas Ramnath Chellappa. E assim, dentro de pouco tempo, as empresas passariam a trocar sua infraestrutura de hardware por serviços disponíveis em nuvem.
+O termo **Cloud Computing** nasce oficialmente em uma palestra proferida pelo professor de sistemas Ramnath Chellappa. E assim, dentro de pouco tempo, as empresas passariam a trocar sua infraestrutura de hardware por serviços disponíveis em nuvem.
 
 ### 2000 - tecnologia oferecida comercialmente
 
- A partir dos anos 2000, a tecnologia __cloud computing__ passa a ganhar mais força, ao ser oferecida comercialmente.
+ A partir dos anos 2000, a tecnologia **cloud computing** passa a ganhar mais força, ao ser oferecida comercialmente.
 
 ### 2006 - Amazon Web Services
 
-Amazon lançou o __Amazon Web Services (AWS)__, oferecendo recursos de computação, armazenamento e rede sob demanda, a preços escaláveis.
+Amazon lançou o **Amazon Web Services (AWS)**, oferecendo recursos de computação, armazenamento e rede sob demanda, a preços escaláveis.
 
 Provendo uma série de serviços para pessoas desenvolvedoras e empresas hospedarem e manterem aplicações e infraestrutura.
 
