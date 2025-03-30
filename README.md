@@ -26,6 +26,10 @@ Este repositório está organizado da seguinte maneira:
 
 ✏ [**Atividade:**](https://miro.com/welcomeonboard/RUFodTlROGE2RzBQWlZma08wczFwWEN2RUprKzBKdjIvZ1pSRGpvdUhvUFAzMTZDWlJkTWxFcytScWhBdWNtMUFCU09tM1E0UjE5ZGJMdld2S0FuRDFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0FmaERyREZFTWpBVFZzSEtMTTd5Lzd3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=98165721347) Nesta atividade, foi explorado os conceitos básicos de algoritmos criando um pseudocódigo e um fluxograma para um recurso ou processo específico. possibilitando entender como os algoritmos funcionam e como representá-los visualmente.
 
+**Aula 5 - :** 
+
+✏ [**Atividade:**](https://typebot.co/my-typebot-tmytafa) Nesta atividade, Crie um chatbot usando o fluxograma apresentado em aula como referência.
+
 **Projeto Final:**
 
 ## 💻 Resumos da Aulas
@@ -34,4 +38,4 @@ Este repositório está organizado da seguinte maneira:
 |:------|:-------|
 | Aula 2 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula2_Evolucao_Computacao.md)|
 | Aula 3 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula3_Introducao_Programacao.md)|
-| Aula 4 | [Resumo]()|
+| Aula 4 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula_4_Introdu%C3%A7%C3%A3o_Algoritmos.md)|
