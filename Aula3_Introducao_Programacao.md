@@ -1,4 +1,4 @@
-# CODING I - Introdução à Programação
+# CODING I | Introdução à Programação
 
 ✏ Para esta atividade, a turma foi dividida em grupos para realizar pesquisas sobre diferentes tipos de linguagens.
 
