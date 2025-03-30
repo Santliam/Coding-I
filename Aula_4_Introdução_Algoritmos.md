@@ -35,6 +35,7 @@ SENÃO
  sair
 
  ## Fluxograma
+ ![](Media/fluxograma_whatsapp.png)
 
 ⬇ Visualização do fluxograma disponivel no link abaixo.
 
