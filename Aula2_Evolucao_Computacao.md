@@ -4,7 +4,7 @@
 
 💻 A **atividade foi realizada na Miro**, uma plataforma colaborativa que facilita o desenvolvimento de ideias e projetos, permitindo que diferentes usuários trabalhem simultaneamente em um mesmo projeto.
 
-👥 Atividade em Grupo.
+👤 Atividade Individual.
 
 # Conteúdo da Timeline
 
