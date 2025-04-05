@@ -1,5 +1,7 @@
 # CODING I | Introdução à Programação
 
+<img align="right"  height="" src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp" alt="bot" width="270">
+
 ✏ Para esta atividade, a turma foi dividida em grupos para realizar pesquisas sobre diferentes tipos de linguagens.
 
 A **pesquisa** realizada por meu grupo corresponde a **linguagem C#**
@@ -7,8 +9,6 @@ A **pesquisa** realizada por meu grupo corresponde a **linguagem C#**
 💻 A **atividade foi realizada na Miro**, uma plataforma colaborativa que facilita o desenvolvimento de ideias e projetos, permitindo que diferentes usuários trabalhem simultaneamente em um mesmo projeto.
 
 👥Atividade em Grupo
-
-![Alt ou título da imagem](https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp)
 
 # [C#](https://www.csharp.com/)
 
