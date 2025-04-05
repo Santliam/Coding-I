@@ -1,8 +1,3 @@
-
-
-
-
-
 # CODING I | Sobre Low Code<br> 
 
 <img align="right"  height="380" src="Media/bot.jpg" alt="bot" width="300">
