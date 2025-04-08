@@ -32,7 +32,16 @@ Nesta aula, abordamos os conceitos fundamentais sobre como resolver problemas po
 
 ## **Aula 5 -** 
 
+Nesta aula, exploramos como criar um chatbot funcional utilizando fluxogramas para planejar o fluxo de comunicação entre o bot e o usuário. O objetivo é entender os componentes essenciais de um chatbot, como as bubbles de comunicação (mensagens enviadas pelo bot), os inputs de dados de entrada (respostas do usuário), o processamento e fluxo de decisão (onde o bot toma decisões com base nas respostas) e os dados de saída (respostas ou ações finais do bot). Vamos aprender a desenhar fluxogramas que representem essas interações de maneira clara e lógica, criando um fluxo de decisões simples, como “sim” ou “não” (If and Elif).
+
 ✏ [**Atividade**](https://typebot.co/my-typebot-tmytafa) Nesta atividade, Crie um chatbot usando o fluxograma apresentado em aula como referência.
+
+## **Aula 6 - Sobre Low Code**
+
+Nesta aula, exploramos o que é **Low Code**, uma abordagem de desenvolvimento de software que requer pouca ou nenhuma codificação tradicional. Utiliza plataformas visuais com componentes pré-prontos para criar aplicações rapidamente. É ideal para agilizar projetos e permitir que usuários não técnicos colaborem no desenvolvimento.
+
+✏ [**Atividade**](https://typebot.co/furry-friends-4hks7mg) Nesta atividade, Crie um chatbot e um fluxograma desenvolvido considerando o atendimento de uma clinica veterinária.
+
 
 **Projeto Final**
 
@@ -40,7 +49,8 @@ Nesta aula, abordamos os conceitos fundamentais sobre como resolver problemas po
 
 | Aulas | Resumo |
 |:------|:-------|
-| Aula 2 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula2_Evolucao_Computacao.md)|
-| Aula 3 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula3_Introducao_Programacao.md)|
-| Aula 4 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula_4_Introdu%C3%A7%C3%A3o_Algoritmos.md)|
+| Aula 2 | [Evolução da Computação](https://github.com/Santliam/Coding-I/blob/main/Aula2_Evolucao_Computacao.md)|
+| Aula 3 | [Introdução à Programação](https://github.com/Santliam/Coding-I/blob/main/Aula3_Introducao_Programacao.md)|
+| Aula 4 | [Introdução à Algoritmos](https://github.com/Santliam/Coding-I/blob/main/Aula_4_Introdu%C3%A7%C3%A3o_Algoritmos.md)|
 | Aula 5 | [Resumo](https://github.com/Santliam/Coding-I/blob/main/Aula5_.md)|
+| Aula 6 | [Sobre Low Code](https://github.com/Santliam/Coding-I/blob/main/Aula6_Low_Code.md)|
