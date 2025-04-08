@@ -30,7 +30,7 @@ Nesta aula, abordamos os conceitos fundamentais sobre como resolver problemas po
 
 ✏ [**Atividade**](https://miro.com/welcomeonboard/RUFodTlROGE2RzBQWlZma08wczFwWEN2RUprKzBKdjIvZ1pSRGpvdUhvUFAzMTZDWlJkTWxFcytScWhBdWNtMUFCU09tM1E0UjE5ZGJMdld2S0FuRDFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0FmaERyREZFTWpBVFZzSEtMTTd5Lzd3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=98165721347) Nesta atividade, foi explorado os conceitos básicos de algoritmos criando um pseudocódigo e um fluxograma para um recurso ou processo específico. possibilitando entender como os algoritmos funcionam e como representá-los visualmente.
 
-## **Aula 5 -** 
+## **Aula 5 - Do Fluxograma para o Chatbot** 
 
 Nesta aula, exploramos como criar um chatbot funcional utilizando fluxogramas para planejar o fluxo de comunicação entre o bot e o usuário. O objetivo é entender os componentes essenciais de um chatbot, como as bubbles de comunicação (mensagens enviadas pelo bot), os inputs de dados de entrada (respostas do usuário), o processamento e fluxo de decisão (onde o bot toma decisões com base nas respostas) e os dados de saída (respostas ou ações finais do bot). Vamos aprender a desenhar fluxogramas que representem essas interações de maneira clara e lógica, criando um fluxo de decisões simples, como “sim” ou “não” (If and Elif).
 
